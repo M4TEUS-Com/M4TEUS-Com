@@ -18,3 +18,7 @@ here have some informations about me 📝⭐:
 Name: Sandpixels 
 release Day: 05/May/2027
 demo Sandpixels: limited edition of Sandpixels. (available: 19/Oct/2026 to 20/Apr/2027)
+Modes: ♾️ Creative /⛏️ Survival (2D survival) 
+How to get Sandpixels DE: On your browser searching "Sandpixels DE" or download the Sandpixels APK.
+current version: v0.2
+v1.0 Main Element: Red Sandstone.
