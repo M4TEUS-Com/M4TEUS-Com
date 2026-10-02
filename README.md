@@ -24,4 +24,5 @@ current version: v0.2
 v1.0 Main Element: Red Sandstone.
 
 # ⚠️ INPORTANT ⚠️
-The Sandpixels DE release day has been adiated
+The Sandpixels DE release day has been replaced of 18/oct to 28/oct.
+Very thanks for cooperation.
