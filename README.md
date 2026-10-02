@@ -23,4 +23,5 @@ How to get Sandpixels DE: On your browser searching "Sandpixels DE" or download 
 current version: v0.2
 v1.0 Main Element: Red Sandstone.
 
-⚠️ arn
+# ⚠️ INPORTANT ⚠️
+The Sandpixels DE release day has been adiated
