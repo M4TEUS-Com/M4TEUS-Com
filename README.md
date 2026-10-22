@@ -15,14 +15,13 @@ here have some informations about me 📝⭐:
 
 ## 🎮 Sandpixels Informations 🎮
 
-Name: Sandpixels 
+Name: Sandpixels DE (Demo Edition).
 release Day: 05/May/2027
 demo Sandpixels: limited edition of Sandpixels. (available: 29/Oct/2026 to 20/Apr/2027)
-Modes: ♾️ Creative /⛏️ Survival (2D survival) 
-How to get Sandpixels DE: On your browser searching "Sandpixels DE" or download the Sandpixels APK.
-current version: v0.2
-v1.0 Main Element: Red Sandstone.
+Modes: ♾️ Creative /⛏️ Survival  (2D survival) Survival mode will be added on v1.12 
+How to play Sandpixels DE: On your browser searching "Sandpixels DE".
+current version: v0.7
 
 ## ⚠️ INPORTANT ⚠️
-The Sandpixels DE release day has been replaced of 18/oct to 28/oct.
-Very thanks for cooperation.
+The Sandpixels DE release day has been replaced of 18/oct to 5/nov.
+Very thankhanks for cooperation. 
