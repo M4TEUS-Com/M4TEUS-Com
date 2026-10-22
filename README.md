@@ -11,7 +11,22 @@ here have some informations about me 📝⭐:
 - 😄 Objective with Sandpixels: Turn it famous the most.
 - ⚡ Fun fact: You know, I have 11 years and I will create 50% Sandpixels code on my TV.
 - 💭 My dream is: have a Galaxy Tab A11+ that costs R$1400/$275. if you want to help me donating some money, this will help me to buy my Tablet ☺️.
-- 💵 How to send money: here on Brazil everyone use Pix, you can send searching "Wize" (it's obligatory have a account) you search how to send a pix, after you know, you put my E-mail and send how Many you want.
+- 💵 How to send money: here on Brazil everyone use Pix, you can send searching "Wize" (it's obligatory have a account) you search how to send a pix, after you know, you put my E-mail and send how M[...] 
+
+## 📊 Informações rápidas
+
+| Item | Valor |
+| --- | --- |
+| Nome | Sandpixels DE |
+| Versão atual | v0.7 |
+| Release oficial | 05/May/2027 |
+| Demo disponível | 29/Oct/2026 a 20/Apr/2027 |
+| Modo principal | Creative |
+| Modo extra | Survival (2D) |
+| Adição do Survival | v1.12 |
+| Como jogar | Pesquisando "Sandpixels DE" no navegador |
+| Objetivo | Tornar o projeto famoso |
+| Contato | E-mail pessoal |
 
 ## 🎮 Sandpixels Informations 🎮
 
