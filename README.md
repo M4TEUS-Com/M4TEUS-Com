@@ -1,42 +1,61 @@
 ## Hi there 👋
 
-here have some informations about me 📝⭐:
+Here are some information about me 📝⭐:
 
-- 🔭 I’m currently working on Sandpixels.
-- 🌱 I’m currently learning HTML.
-- 👯 I’m looking to collaborate on Sandboxels.
-- 🤔 I’m looking for help with Sandpixels.
-- 💬 You can ask me: I can help on Sandpixels creation or how are Sandpixels creation.
-- 📫 How to reach me: On my E-mail.
-- 😄 Objective with Sandpixels: Turn it famous the most.
-- ⚡ Fun fact: You know, I have 11 years and I will create 50% Sandpixels code on my TV.
-- 💭 My dream is: have a Galaxy Tab A11+ that costs R$1400/$275. if you want to help me donating some money, this will help me to buy my Tablet ☺️.
-- 💵 How to send money: here on Brazil everyone use Pix, you can send searching "Wize" (it's obligatory have a account) you search how to send a pix, after you know, you put my E-mail and send how M[...] 
+- 🔭 I'm currently working on Sandpixels.
+- 🌱 I'm currently learning HTML.
+- 👯 I'm looking to collaborate on Sandboxels.
+- 🤔 I'm looking for help with Sandpixels.
+- 💬 You can ask me: I can help with Sandpixels creation or how Sandpixels are created.
+- 📫 How to reach me: via email.
+- 😄 Objective with Sandpixels: make it famous.
+- ⚡ Fun fact: I am 11 years old, and I will create 50% of the Sandpixels code on my TV.
+- 💭 My dream is to have a Galaxy Tab A11+ that costs R$1400/$275. If you want to help me by donating, it will help me buy my tablet ☺️.
+- 💵 How to send money: in Brazil, everyone uses Pix. You can search for "Wize" (you need to have an account), learn how to send a Pix, then add my email and send as much as you want.
 
-## 📊 Informações rápidas
+## 📊 Quick Overview
 
-| Item | Valor |
+| Item | Value |
 | --- | --- |
-| Nome | Sandpixels DE |
-| Versão atual | v0.7 |
-| Release oficial | 05/May/2027 |
-| Demo disponível | 29/Oct/2026 a 20/Apr/2027 |
-| Modo principal | Creative |
-| Modo extra | Survival (2D) |
-| Adição do Survival | v1.12 |
-| Como jogar | Pesquisando "Sandpixels DE" no navegador |
-| Objetivo | Tornar o projeto famoso |
-| Contato | E-mail pessoal |
+| Name | Sandpixels DE |
+| Current version | v0.7 |
+| Official release | 05/May/2027 |
+| Demo available | 29/Oct/2026 to 20/Apr/2027 |
+| Main mode | Creative |
+| Extra mode | Survival (2D) |
+| Survival update | v1.12 |
+| How to play | Search "Sandpixels DE" in your browser |
+| Goal | Make the project famous |
+| Contact | Email |
 
-## 🎮 Sandpixels Informations 🎮
+## 🎮 Sandpixels Information 🎮
 
-Name: Sandpixels DE (Demo Edition).
-release Day: 05/May/2027
-demo Sandpixels: limited edition of Sandpixels. (available: 29/Oct/2026 to 20/Apr/2027)
-Modes: ♾️ Creative /⛏️ Survival  (2D survival) Survival mode will be added on v1.12 
-How to play Sandpixels DE: On your browser searching "Sandpixels DE".
-current version: v0.7
+- Name: Sandpixels DE (Demo Edition)
+- Release day: 05/May/2027
+- Demo: limited edition of Sandpixels (available: 29/Oct/2026 to 20/Apr/2027)
+- Modes: ♾️ Creative /⛏️ Survival (2D survival). Survival mode will be added in v1.12
+- How to play Sandpixels DE: search "Sandpixels DE" in your browser
+- Current version: v0.7
 
-## ⚠️ INPORTANT ⚠️
-The Sandpixels DE release day has been replaced of 18/oct to 5/nov.
-Very thanks for cooperation.
+## 🚀 Project Goals
+
+- Build a fun and creative sandbox experience for players.
+- Improve the gameplay loop with new mechanics and updates.
+- Make Sandpixels stand out as an engaging browser game.
+
+## 📌 Future Plans
+
+- Expand survival mode and core features.
+- Improve usability and game balance.
+- Add more content and polish before the official release.
+
+## 💬 Community
+
+- Open to collaboration and feedback.
+- Looking for support and creative ideas.
+- Always happy to share progress and improvements.
+
+## ⚠️ IMPORTANT ⚠️
+
+The Sandpixels DE release date has been changed from 18/Oct to 5/Nov.
+Thank you very much for your cooperation.
