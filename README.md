@@ -11,7 +11,6 @@ Here are some information about me 📝⭐:
 - 😄 Objective with Sandpixels: make it famous.
 - ⚡ Fun fact: I am 11 years old, and I will create 50% of the Sandpixels code on my TV.
 - 💭 My dream is to have a Galaxy Tab A11+ that costs R$1400/$275. If you want to help me by donating, it will help me buy my tablet ☺️.
-- 💵 How to send money: in Brazil, everyone uses Pix. You can search for "Wize" (you need to have an account), learn how to send a Pix, then add my email and send as much as you want.
 
 ## 📊 Quick Overview
 
@@ -20,13 +19,13 @@ Here are some information about me 📝⭐:
 | Name | Sandpixels DE |
 | Current version | v0.7 |
 | Official release | 05/May/2027 |
-| Demo available | 29/Oct/2026 to 20/Apr/2027 |
+| Demo available | 05/Nov/2026 to 20/Apr/2027 |
 | Main mode | Creative |
 | Extra mode | Survival (2D) |
-| Survival update | v1.12 |
+| Survival addition | v1.12 |
 | How to play | Search "Sandpixels DE" in your browser |
 | Goal | Make the project famous |
-| Contact | Email |
+| Contact | My future email |
 
 ## 🎮 Sandpixels Information 🎮
 
