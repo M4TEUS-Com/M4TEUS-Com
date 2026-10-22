@@ -24,4 +24,4 @@ current version: v0.7
 
 ## ⚠️ INPORTANT ⚠️
 The Sandpixels DE release day has been replaced of 18/oct to 5/nov.
-Very thankhanks for cooperation. 
+Very thanks for cooperation.
