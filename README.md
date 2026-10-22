@@ -45,9 +45,9 @@ Here are some information about me 📝⭐:
 
 ## 📌 Future Plans
 
-- Expand survival mode and core features.
-- Improve usability and game balance.
-- Add more content and polish before the official release.
+- Expand Elements, Home menu and game core.
+- Add survival mode for more adventure.
+- Create the Elements Vote.
 
 ## 💬 Community
 
@@ -58,4 +58,4 @@ Here are some information about me 📝⭐:
 ## ⚠️ IMPORTANT ⚠️
 
 The Sandpixels DE release date has been changed from 18/Oct to 5/Nov.
-Thank you very much for your cooperation.
+Thank you very much for your cooperation.   
